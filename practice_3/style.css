@@ -1,0 +1,30 @@
+/*element selector*/
+h1 {
+    color: rgb(255, 255, 0);
+}
+
+.p {
+    height: 100px;
+    width: 200px;
+}
+
+#p1 {
+    background-color: rgb(16, 118, 173);
+    color: darkgray;
+}
+
+#p2 {
+    background-color: bisque;
+    color: darkkhaki;
+}
+
+h3,
+p {
+    color: antiquewhite;
+}
+
+div p {
+    color: blue;
+    background-color: aquamarine;
+
+}
