@@ -1,0 +1,8 @@
+#bx {
+    background-image: url(images/bhotchori.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    visibility: visible;
+    height: 300px;
+    width: 450px;
+}
